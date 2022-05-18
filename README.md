@@ -26,4 +26,4 @@
 * Tony363
 * k9202ky
 * 
- (Tutorial reference link)[https://codewithawa.com/posts/how-to-create-a-blog-in-php-and-mysql-database]
+ [Tutorial reference link](https://codewithawa.com/posts/how-to-create-a-blog-in-php-and-mysql-database)
