@@ -21,3 +21,9 @@
   * The user can browse through all posts listings under a particular topic by clicking on the topic
   * When a user clicks on a post, they can view the full post and comment at the bottom of the posts.
   * A Disqus commenting system is implemented which allows users to comment using social media accounts with platforms like Facebook, GooglePlus, Twitter.
+
+## Contributing Members
+* Tony363
+* k9202ky
+* 
+ (Tutorial reference link)[https://codewithawa.com/posts/how-to-create-a-blog-in-php-and-mysql-database]
