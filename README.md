@@ -23,7 +23,7 @@
   * A Disqus commenting system is implemented which allows users to comment using social media accounts with platforms like Facebook, GooglePlus, Twitter.
 
 ## Contributing Members
-* Tony363
-* k9202ky
+* [Tony363](https://github.com/Tony363)
+* [k9202ky](https://github.com/k9202ky)
 * 
  [Tutorial reference link](https://codewithawa.com/posts/how-to-create-a-blog-in-php-and-mysql-database)
